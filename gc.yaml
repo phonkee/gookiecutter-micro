@@ -1,0 +1,9 @@
+data:
+  - id: project
+    value: project
+    help: Project is folder name and package name
+  - id: package
+    value: github.com/user/project
+  - id: proto_package
+    value: github.com/user/proto
+    help: Protobuffer package generated from gookiecutter-proto
